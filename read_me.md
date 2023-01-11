@@ -1,0 +1,2 @@
+Esse projeto NÃO É de minha autoria.
+É apenas uma reprodução do projeto dado em aula, com o intuito de fixação dos conteúdos aprendidos da Seção 3 do curso de Desenvolvimento Web Completo da plataforma Udemy.
